@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhay Bhadoriya
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Dsa and web developer
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram
 
